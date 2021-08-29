@@ -8,8 +8,12 @@ Expenses (amount of recharge done per month etc.)
 
 Based on all this past information, you want to build a model which will predict whether a particular customer will churn or not, i.e. whether they will switch to a different service provider or not. So the variable of interest, i.e. the target variable here is ‘Churn’ which will tell us whether or not a particular customer has churned. It is a binary variable - 1 means that the customer has churned and 0 means the customer has not churned.
  
-[churn_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072583/churn_data.csv)
-[customer_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072584/customer_data.csv)
-[internet_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072585/internet_data.csv)
-[Telecom Churn Data Dictionary.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072591/Telecom.Churn.Data.Dictionary.csv)
+[churn_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072583/churn_data.csv),
+
+[customer_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072584/customer_data.csv),
+
+[internet_data.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072585/internet_data.csv),
+
+[Telecom Churn Data Dictionary.csv](https://github.com/sahilthakare/Logistic-Regression/files/7072591/Telecom.Churn.Data.Dictionary.csv),
+
 # Logistic-Regression
